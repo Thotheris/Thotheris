@@ -1,5 +1,5 @@
 
-<h3 align="center">**Welcome to my page, Enjoy your stay.** </h3>
+<h3 align="center">Welcome to my page, Enjoy your stay. </h3>
 
 ---
 

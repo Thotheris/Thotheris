@@ -3,9 +3,7 @@
 
 ---
 
-I'm currently a self teaching junior level developer who is mostly instrested in Bitcoin, The Lightning Network, Ethereum, and Cryptography, and P2P Networks.
+Self taught autodidact using AI/Local AI to learn and build. Mostly instrested in Bitcoin, The Lightning Network, Bitcoin Cash, Ethereum, and P2P Networks.
+I like learning about AI, ML, and Local AI systems. This github exists for me to host projects and research I've done locally. 
 
-When I'm not learning software development or mathematics I do kendo as well as ride Electric Unicycles.
-   
-- Languages I am learning: C, C++, Rust, Solidity, Python
-- How to reach me: XMPP, SimpleX.
+- How to reach me: XMPP, SimpleX, X
